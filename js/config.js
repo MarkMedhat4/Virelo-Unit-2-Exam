@@ -6,7 +6,7 @@
 window.VIRELO_CONFIG = {
   // Paste the Web App URL obtained after deploying Code.gs
   // (it ends with /exec). See README section 11–12.
-  API_URL: 'https://script.google.com/macros/s/AKfycbweZlbXHbfkEyiORQWiJpJcUKZZicik7REl3lIX3q6AQw9R1IkTJ-Uma7Te-FOJYIIu9Q/exec',
+  API_URL: 'https://script.google.com/macros/s/AKfycbykQgCPkjSYrjuf3Nf_SsBoQBVOiyccwWM1I7EEvLLzCMG6leHFJRHF9FPc7QiQNscNhA/exec',
 
   EXAM_TITLE: 'امتحان الوحدة الثانية',
 
